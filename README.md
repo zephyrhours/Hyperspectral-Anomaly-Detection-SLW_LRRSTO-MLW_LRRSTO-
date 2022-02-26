@@ -10,7 +10,7 @@ Fig.1. Schematic diagram of a single local window and multiple local windows and
 
 ## Prerequisites
 matlab R2018b
-<br />
+
 
 
 # Citation
