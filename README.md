@@ -32,7 +32,7 @@ If these codes and dataset are helpful for you, please cite this paper:
 Tan, K., Hou, Z., Ma, D., Chen, Y. and Du, Q., 2019. Anomaly detection in hyperspectral imagery based on low-rank representation incorporating a spatial constraint. Remote Sensing, 11(13), p.1578.
 ```
 
-# Other Related Papers
+# Other Anomaly Detection Papers
 [1] Kun Tan, **Zengfu Hou**, Fuyu Wu, Qian Du, and Yu Chen. [Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation[J]. Remote Sensing, 2019, 11(11): 1318.](https://www.mdpi.com/2072-4292/11/11/1318) [J]. Remote Sensing, 2019, 11(13): 1578. [Co-first author]
 
 [2] **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, and Weihua Shi. [Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection](https://link.springer.com/article/10.1007/s11432-020-2915-2) [J]. Science China Information Sciences, 2022 Jan, 65(1):1-12. doi: https://doi.org/10.1007/s11432-020-2915-2.
