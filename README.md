@@ -12,6 +12,10 @@ Fig.1. Schematic diagram of a single local window and multiple local windows and
 MATLAB R2018b
 
 
+## Statement
+- To accelerate the operation, in the proposed SLW_LRRSTO/MLW_LRRSTO models, random selection method was adopted to construct initial dictionary. Hence, the result has a certain randomness. 
+- It is worth noting that the detection results of all the methods in this paper are the average value of 10 repeated experiments.
+- The dictionary in the shared demo program is a random dictionary, which is only used for program testing.
 
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
