@@ -7,8 +7,8 @@ Kun Tan, **Zengfu Hou†**, Dongelei Ma, Yu Chen, and Qian Du. [Anomaly detectio
 # Prerequisites
 matlab R2018b
 
-<img src="WinSize_Salinas.png" alt="WinSize_Salinas">
-Fig.1. AUC values of different window sizes in the Salinas dataset
+<img src="Flowchat_SLW.png" alt="Flowchat SLW">
+Fig.1. Schematic diagram of a single local window and multiple local windows and the corresponding filters (N = 5): (a) single local window; (b) multiple local windows.
 
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
