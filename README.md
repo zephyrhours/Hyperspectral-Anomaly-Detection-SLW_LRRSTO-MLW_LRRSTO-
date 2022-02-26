@@ -7,9 +7,10 @@ Kun Tan, **Zengfu Hou†**, Dongelei Ma, Yu Chen, and Qian Du. [Anomaly detectio
 <img src="Flowchat_SLW.png" alt="Flowchat SLW">
 Fig.1. Schematic diagram of a single local window and multiple local windows and the corresponding filters (N = 5): (a) single local window; (b) multiple local windows.
 
+<br />
 **Prerequisites**<br />
 matlab R2018b
-
+<br />
 
 
 # Citation
