@@ -52,7 +52,7 @@ Tan, K., Hou, Z., Ma, D., Chen, Y. and Du, Q., 2019. Anomaly detection in hypers
 
 [6] **Zengfu Hou**, Kun Tan, Yu Chen, and Peijun Du. [AN IMPROVED UNSUPERVISED NEAREST REGULARIZED SUBSPACE METHOD FOR HYPERSPECTRAL ANOMALY DETECTION](https://drive.google.com/file/d/1g3KkwsN2Q8pk7aMZEKGRdfoGEEcOTTRp/view) [C]. International Conference on Advanced Remote Sensing, 2018.
 
-[7] **Zengfu Hou**, Siyuan Cheng, and Ting Hu. A Spectral-Spatial Fusion Anomaly Detection Method for Hyperspectral Imagery [J]. Photogrammetric Engineering & Remote Sensing, 2022. [Preprint Paper](https://arxiv.org/abs/2202.11889)
+[7] **Zengfu Hou**, Siyuan Cheng, and Ting Hu. A Spectral-Spatial Fusion Anomaly Detection Method for Hyperspectral Imagery [J]. arxiv.org/abs/2202.11889. 2022. [Preprint Paper](https://arxiv.org/abs/2202.11889)
 
 
 # Website
